@@ -19,3 +19,6 @@ LOGGING_LEVEL = "INFO"  # or use logging.DEBUG, logging.WARNING, etc.
 # Dataset parameters
 IMAGE_HEIGHT = 256
 IMAGE_WIDTH = 256
+
+
+MONGO_DB_URL = "mongodb+srv://dushyant_braintumor:Dushyant12@@cluster0.rzlrf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
